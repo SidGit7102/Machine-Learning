@@ -1,6 +1,12 @@
 # **Roadmap to Master Machine Learning**
 
-This roadmap provides a structured approach to mastering Machine Learning (ML), with a focus on fundamental concepts, practical implementation, and real-world applications. Each step includes recommended books, websites, and resources to deepen your understanding.
+I am documenting my own roadmap to ace the Machine Learning, in this walkthrough I will the sharing essential steps that are required before even starting with the M.L and I will also be sharing some of the best resources that I have found from the internet and other resources. I have customly made this after surfing many blogs and videos. 
+
+I my opinion, well for as far as I am concerned about, is that, we should have a good grasp of basics and we should be aware and acknowledged with all of the real life significance and use cases about the things that we study, if we question about why we are study it, before even studying it, then we will dig to the depth of learning. And from all of them, the most curcial part is **curiosity**.
+
+I often say this- *Science is for curiosity not for learning*
+
+And this custom roadmap provides a structured approach to mastering Machine Learning (ML), with a focus on fundamental concepts, practical implementation, and real-world applications. Each step includes recommended books, websites, and resources to deepen your understanding.
 
 ---
 
@@ -10,16 +16,15 @@ Before diving into ML, ensure you have a solid foundation in:
 ### **1.1 Mathematics**
 
 #### Topics:
-- Linear Algebra
-- Calculus
-- Probability and Statistics
+- **Linear Algebra**- Vectors, Scalars, Tensors, Matrices, Subspaces, Linear dependence and independence of Vectors, Projection matrix, Orthogonal Vectors, Orthogonal matrix, Solving a system of Linear Equations; Eigenvectors and Eigenvalues.
+- **Calculus**- Differentiation and Partial derivatives, Limits, Integration, Optimization and Gradients.
+- **Probability and Statistics**- Counting (permutation and combinations), probability axioms, Samplespace, events, independent events, mutually exclusive events, marginal, conditional and jointprobability,BayesTheorem, conditional expectation and variance, mean, median, mode andstandard deviation, correlation, and covariance, random variables, discrete random variables and probability mass functions.
+
 
 #### Resources:
-- **Linear Algebra**: ["Linear Algebra Done Right" by Sheldon Axler](https://www.amazon.com/Linear-Algebra-Done-Right-Undergraduate/dp/3319110799) 
-- **Calculus**: [Khan Academy - Calculus](https://www.khanacademy.org/math/calculus-1)
-- **Probability & Statistics**: ["Probability and Statistics for Engineers and Scientists" by Sheldon M. Ross](https://www.amazon.com/Probability-Statistics-Engineers-Scientists-9th/dp/0321629116)
-
----
+- **Linear Algebra**: ["Linear Algebra- Machine Learning Foundations" by Jon Krohn](https://www.youtube.com/watch?v=NMTQ7rodUxY&t=155s) 
+- **Calculus**: 
+- **Probability & Statistics**: 
 
 ### **1.2 Programming**
 #### Topics:
