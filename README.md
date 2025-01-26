@@ -1,6 +1,6 @@
 # **Roadmap to Master Machine Learning**
 
-I am documenting my own roadmap to ace the Machine Learning, in this walkthrough I will the sharing essential steps that are required before even starting with the M.L and I will also be sharing some of the best resources that I have found from the internet and other resources. I have customly made this after surfing many blogs and videos. 
+I am documenting my own roadmap to ace the Machine Learning, in this walkthrough I will the sharing essential steps that are required before even starting with the M.L and I will also be sharing some of the best resources that I have found from the internet. I have customly made this after surfing many blogs and videos. 
 
 I my opinion, well for as far as I am concerned about, is that, we should have a good grasp of basics and we should be aware and acknowledged with all of the real life significance and use cases about the things that we study, if we question about why we are study it, before even studying it, then we will dig to the depth of learning. And from all of them, the most curcial part is **curiosity**.
 
